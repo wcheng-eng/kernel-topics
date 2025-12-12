@@ -16,3 +16,4 @@
 #include "pmcx0102.dtsi"	/* SPMI0: SID-2/3/4/6	SPMI1: SID-2/3/4 */
 #include "pmh0110.dtsi"	/* SPMI0: SID-5/7	SPMI1: SID-5	*/
 #include "pmh0104.dtsi"	/* SPMI0: SID-8/9	SPMI1: SID-11	*/
+#include "smb2370.dtsi"	/* SPMI2: SID-9/10/11			*/
